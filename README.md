@@ -1,4 +1,4 @@
-This project is a Data Warehouse solution designed to analyze e-commerce customer shopping data. It uses ETL workflows and OLAP queries to generate insights such as customer behavior, product trends, and sales performance.
+This project is a Data Warehouse solution designed to analyze e-commerce customer shopping data. It uses ETL workflows and OLAP queries to generate insights such as customer behavior, product trends, and sales performance
 🚀 Features
 
 ✅ ETL pipeline built with Pentaho Data Integration (Kettle)
